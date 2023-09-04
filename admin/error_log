@@ -1,0 +1,2 @@
+[13-Aug-2023 16:42:31 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/habadati/public_html/admin/includes/db.php on line 3
+[14-Aug-2023 13:02:59 UTC] PHP Warning:  mysqli_connect(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/habadati/public_html/admin/includes/db.php on line 3
